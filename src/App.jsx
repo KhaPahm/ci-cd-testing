@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Phạm Hoàng Kha Xin chào!
+        Phạm Hoàng Kha đã chỉnh sửa cái này!
       </p>
     </>
   )
